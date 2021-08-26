@@ -16,6 +16,11 @@ Este projeto foi desenvolvido com a utilização do framework react native, e no
 Foi implantado na arquitetura do projeto os principais recursos de funcionalidade do rect-native, implementação dos recursos de permissão da camera do android em modo nativo,
 api rest com fetch e geração de imagens com base64, foi utilizado api de geolocalização e de fala (Speech) e armazenamento local com async storage.
 
+## Layout
+<p align="center">
+  <img width="1000" src="src/assets/CaminhoCerto.png">
+</P>
+
 ## Sample Snack app
 
 Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by clicking the **Run** button or use the simulator by clicking **Tap to Play**. When you're done, click **Save** and share the link!
