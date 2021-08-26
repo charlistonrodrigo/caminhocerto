@@ -1,6 +1,6 @@
 # Caminho certo
 
-
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/charlistonrodrigo/caminhocerto/blob/main/LICENSE)
 
 # Sobre
 
