@@ -28,6 +28,11 @@ api rest com fetch e geração de imagens com base64, foi utilizado api de geolo
   
 </P>
 
+## Como execultar o projeto
+
+Baixe o aplicativo do expo em seu dispositivo móvel. Para execultar o projeto basta importa-lo no vsCode e execultar o comando expo start na pasta do projeto. Selecione a opção tunel na tela que abrir no navegador, isso vai gerar um qrCode. Com o expo aberto em seu dispositivo móvel clique em qrCode para ler o qrCode que abrir na tela do computador.
+Isso permitira a execução do aplicativo em seu dispositivo móvel.
+
 ## Sample Snack app
 
 Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by clicking the **Run** button or use the simulator by clicking **Tap to Play**. When you're done, click **Save** and share the link!
